@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Plumex-droid
-- 👀 I’m interested in Programming and Creating valuable and useful softwares!
+- 👀 I’m interested in Programming, Game Design, Blockchain and ultimately Creating valuable and useful softwares!
 - 🌱 I’m currently learning Software Engineering, Artificial Intelligence and Cybersecurity!
 - 💞️ I’m looking to collaborate on projects that deploy Machine Learning that are reliable, robust and secure! Projects that would benefit a large proportion of people globally!
 - 📫 How to reach me ...
